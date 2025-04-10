@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/rhtap-qe-java-springboot:a6598f7d58535dc3d9d7bf405b9cb10f8e59af9c@sha256:c6ad560c6ec4076fe540474a0f94d111a041e61fe71854b8320ccf4f812cfdb8
+        - image: quay.io/rhtap_qe/rhtap-qe-java-springboot:306c325293ab986233bcc721c44fb14f515ab252@sha256:0a3b4411644946fb546f1ff395513946e7b657f667a9905ee0054d53b25850b8
           name: container-image
